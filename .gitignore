@@ -355,3 +355,5 @@ build_*/
 
 # Xmake cache files
 .xmake/
+
+.ionide
